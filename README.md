@@ -25,4 +25,4 @@ Este proyecto es una propuesta de rediseño creativo que traslada el lenguaje vi
 ---
 
 ## 📝 Nota Académica
-Este proyecto fue creado con fines estrictamente educativos para [Nombre de tu materia/escuela]. No tiene afiliación oficial con Rockstar Games ni Take-Two Interactive.
+Este proyecto fue creado con fines estrictamente educativos para [Nombre de tu materia/escuela]. No tiene afiliación oficial con Rockstar Games.
