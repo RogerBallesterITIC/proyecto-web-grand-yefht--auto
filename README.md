@@ -19,7 +19,7 @@ Este proyecto es una propuesta de rediseño creativo que traslada el lenguaje vi
 
 ---
 ## 📂 Cómo ejecutar el proyecto
-1. Clona este repositorio: `git clone https://github.com/tu-usuario/proyecto-gta.git`
+1. Clona este repositorio: `git clone git@github.com:RogerBallesterITIC/proyecto-web-grand-yefht--auto.git`
 2. Abre el archivo `index.html` en tu navegador favorito.
 
 ---
