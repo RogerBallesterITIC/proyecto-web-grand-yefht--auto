@@ -26,3 +26,7 @@ Este proyecto es una propuesta de rediseño creativo que traslada el lenguaje vi
 
 ## 📝 Nota Académica
 Este proyecto fue creado con fines estrictamente educativos para ITIC BCN. No tiene afiliación oficial con Rockstar Games.
+
+## 🌐 Publicación
+
+Proyecto publicado mediante GitHub Pages.
